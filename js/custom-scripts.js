@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------*/
-/* Project: Aquanshan - Swim Academy HTML5 Template */
+/* Project: Aquanshan -  */
 /* Ver: 1.0.1*/
 /* Date: 25-06-2017*/
 /* Author: xenioushk*/
